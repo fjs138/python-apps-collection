@@ -1,0 +1,43 @@
+0000035           12300         WORKOUT
+0000001           55500           DONUT
+0000002           55500           LATTE
+0000001           55500           DONUT
+0000002           55500           LATTE
+0000035           55500         WORKOUT
+0000010           55500         WEIGHTS
+0000150             999           DONUT
+0000200             999           LATTE
+0003500             999         WORKOUT
+0001000             999         WEIGHTS
+150.00000999DONUT
+200.00000999LATTE
+3500.00000222         WORKOUT
+3500.00023232         WORKOUT
+3500.00000222         WORKOUT
+0000800          232143           BIKES
+0001000             423         WEIGHTS
+0001000            3323         WEIGHTS
+0001000             123         WEIGHTS
+0000135              22           DONUT
+0000180              22           LATTE
+0003150            3500         WORKOUT
+0000900            1000         WEIGHTS
+0003150            3500         WORKOUT
+0000900            1000         WEIGHTS
+0003150           23232         WORKOUT
+0000900            3232         WEIGHTS
+0000180             333           LATTE
+0003150          312312         WORKOUT
+0000102            4444          MUFFIN
+0000102            4444          MUFFIN
+0000108            4444          MUFFIN
+0002992             333         WORKOUT
+0000720             333           BIKES
+0000684             333           BIKES
+0000720             333           BIKES
+0000684             333           BIKES
+0000720             333           BIKES
+0000128          111111           DONUT
+0000135          111111           DONUT
+0000108           12345          MUFFIN
+0000188           54321           LATTE
